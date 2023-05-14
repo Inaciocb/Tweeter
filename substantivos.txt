@@ -1,0 +1,65 @@
+pessoa
+animal
+planta
+inseto
+peixe
+pássaro
+mamífero
+réptil
+anfíbio
+ave
+mamífero marinho
+réptil marinho
+invertebrado
+ser humano
+cachorro
+gato
+elefante
+leão
+tigre
+urso
+golfinho
+baleia
+tubarão
+Águia
+coruja
+borboleta
+abelha
+formiga
+girafa
+macaco
+cavalo
+vaca
+ovelha
+coelho
+passarinho
+peixe dourado
+pinguim
+tucano
+orangotango
+árvore
+flor
+grama
+arbusto
+rosa
+margarida
+lírio
+carvalho
+palmeira
+bambu
+samambaia
+corpo humano
+cérebro
+coração
+pulmão
+estômago
+rim
+fígado
+ossos
+sangue
+célula
+bactéria
+fungo
+alga
+protozoário
+vírus
